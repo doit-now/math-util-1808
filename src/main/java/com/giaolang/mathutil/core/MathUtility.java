@@ -34,7 +34,8 @@ public class MathUtility {
     //0! = 1! = 1
     //n = 0..20! vì n = 21! vượt 18 số 0, 18 số 0 là vừa đủ long
     public static long getFactorial(int n) {
-        long product = 10;  //tích-kết quả phép nhân
+        long product = 1;  //tích-kết quả phép nhân
+        //update code again to see green 4ever
         
         if (n < 0 || n > 20)
             throw new IllegalArgumentException("Invalid n. n must be between 0..20");
