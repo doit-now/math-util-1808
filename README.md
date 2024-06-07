@@ -1,3 +1,5 @@
+[![Math Utility Maven Project (CI applied)](https://github.com/doit-now/math-util-1808/actions/workflows/ci_script.yml/badge.svg)](https://github.com/doit-now/math-util-1808/actions/workflows/ci_script.yml)
+
 # Welcome to Math Utility Repository ver. 7.6.2024
 
 ## You will find in this repo the following stuff
