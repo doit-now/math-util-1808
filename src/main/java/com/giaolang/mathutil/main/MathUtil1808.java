@@ -13,6 +13,12 @@ import javax.swing.JOptionPane;
  */
 public class MathUtil1808 {
     
+    //modify code in local, later upload to sever
+    public static void printMsg() {
+        
+    }
+         
+    
     //psvm tab tạo nhanh hàm main() 
     public static void main(String[] args) {
         //CÁCH 2: TEST HÀM = CÁCH POPUP
