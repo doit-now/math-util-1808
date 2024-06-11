@@ -12,6 +12,12 @@ import javax.swing.JOptionPane;
  * @author giao.lang
  */
 public class MathUtil1808 {
+
+    //MODIFY CODE DIRIRECLY IN SERVER - TO SIMULATE A CASE WHERE TEAM MEMBER 
+    //UPLOAD CODE
+    public void SayHelloFromServer() {
+
+    }     
     
     //modify code in local, later upload to sever
     public static void printMsg() {
